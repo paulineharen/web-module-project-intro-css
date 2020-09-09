@@ -20,6 +20,7 @@ font: inherit;
 vertical-align: baseline;  
 }
 
+/* Navigation */
 .plan {
     background-color: #FF764E;
 }
@@ -41,4 +42,12 @@ h1 {
 
 h2, p, .plan, .learn, .get {
     font-family: 'Roboto Mono', monospace;
+}
+
+
+#maintext {
+    background-color: #ddb9a3;
+    color: white;
+    padding: 40px;
+    text-align: center;
 }
