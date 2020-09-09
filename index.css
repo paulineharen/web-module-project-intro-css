@@ -120,3 +120,22 @@ h2, p, .plan, .learn, .get {
     margin-right: auto;
     width: 50em;
 }
+
+.explore {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+.open {
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+}
