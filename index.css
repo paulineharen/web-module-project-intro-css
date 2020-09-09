@@ -44,6 +44,11 @@ h2, p, .plan, .learn, .get {
     font-family: 'Roboto Mono', monospace;
 }
 
+#footer {
+    background-color: #f9e7dc;
+    padding: 40px;
+    text-align: center;
+}
 
 #maintext {
     background-color: #ddb9a3;
