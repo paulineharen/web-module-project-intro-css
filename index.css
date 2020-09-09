@@ -42,6 +42,7 @@ h1 {
 
 h2, p, .plan, .learn, .get {
     font-family: 'Roboto Mono', monospace;
+    text-align: center;
 }
 
 #footer {
