@@ -73,6 +73,18 @@ h2, p, .plan, .learn, .get {
     text-align: center;
 }
 
+.fireblock {
+    margin-left: auto;
+    margin-right: auto;
+    width: 18em;
+}
+
+.rvblock {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+}
+
 #footer {
     background-color: #f9e7dc;
     padding: 40px;
