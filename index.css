@@ -21,6 +21,25 @@ vertical-align: baseline;
 }
 
 /* Navigation */
+
+#container {
+   margin: 0 auto;
+   margin-top: 40px;
+   width: 600px;
+}
+
+.plan, .learn, .get {
+    color: white;
+    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: auto;
+    border-radius: 10px;
+    border: 0px;
+    padding: 8px;
+    text-alignment: center;
+    text-decoration: none;
+}
 .plan {
     background-color: #FF764E;
 }
@@ -36,7 +55,16 @@ vertical-align: baseline;
 @import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
 
+.header_img {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
 h1 {
+    display: inline;
     font-family: 'Chelsea Market', cursive;
 }
 
