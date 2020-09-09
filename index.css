@@ -53,7 +53,7 @@ h2, p, .plan, .learn, .get {
 
 .bolder {
     font-weight: bolder;
-}
+} 
 
 .logfire {
     display: block;
@@ -63,6 +63,14 @@ h2, p, .plan, .learn, .get {
     height: auto;
 }
 
+.rv {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: auto;
+  }
+  
 #maintext {
     background-color: #ddb9a3;
     color: white;
