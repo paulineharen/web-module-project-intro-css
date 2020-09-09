@@ -50,6 +50,10 @@ h2, p, .plan, .learn, .get {
     text-align: center;
 }
 
+.bolder {
+    font-weight: bolder;
+}
+
 #maintext {
     background-color: #ddb9a3;
     color: white;
