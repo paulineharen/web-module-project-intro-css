@@ -1,0 +1,165 @@
+
+html, body, div, span, applet, object, iframe,  
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,  
+a, abbr, acronym, address, big, cite, code,  
+del, dfn, em, img, ins, kbd, q, s, samp,  
+small, strike, strong, sub, sup, tt, var,  
+b, u, i, center,  
+dl, dt, dd, ol, ul, li,  
+fieldset, form, label, legend,  
+table, caption, tbody, tfoot, thead, tr, th, td,  
+article, aside, canvas, details, embed,  
+figure, figcaption, footer, header, hgroup,  
+menu, nav, output, ruby, section, summary,  
+time, mark, audio, video {  
+margin: 0;  
+padding: 0;  
+border: 0;  
+font-size: 100%;  
+font: inherit;  
+vertical-align: baseline;  
+}
+
+/* Navigation */
+
+#container {
+   margin: 0 auto;
+   margin-top: 40px;
+   margin-right: 380px;
+   width: 600px;
+}
+
+.plan, .learn, .get {
+    color: white;
+    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: auto;
+    border-radius: 10px;
+    border: 0px;
+    padding: 8px;
+    text-decoration: none;
+}
+.plan {
+    background-color: #FF764E;
+}
+
+.learn {
+    background-color: #5ED3EB;
+}
+
+.get {
+    background-color: #FFCD69;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+
+.header_img {
+  position: relative;
+  margin: 60px;
+  margin-left: 290px;
+  margin-right: 60px;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+
+
+h1 {
+    display: inline;
+    margin: 3px;
+    font-size: 40px;
+    font-family: 'Chelsea Market', cursive;
+    text-alignment: center;
+    vertical-align: super;
+}
+
+h2, p, .plan, .learn, .get {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+.fireblock {
+    margin-left: auto;
+    margin-right: auto;
+    width: 18em;
+}
+
+.rvblock {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+}
+
+#footer {
+    background-color: #f9e7dc;
+    padding: 40px;
+    text-align: center;
+}
+
+.bolder {
+    font-weight: bolder;
+} 
+
+.logfire {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: auto;
+}
+
+.rv {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: auto;
+  }
+  
+#maintext {
+    background-color: #ddb9a3;
+    color: white;
+    padding: 40px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+.explore {
+    padding: 20px;
+    text-align: center;
+    margin-top: -10%;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: 140px;
+    width: 50em;
+}
+
+.open {
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: 400px;
+    width: 20em;
+}
+
+footer img {
+    margin-top: -4%;
+    margin-left: -14%;
+    margin-right: -14%;
+    margin-botton: 10%;
+    width: 106%;
+    height: 200px;
+  }
+  
+      
