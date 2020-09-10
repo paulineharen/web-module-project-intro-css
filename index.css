@@ -25,6 +25,7 @@ vertical-align: baseline;
 #container {
    margin: 0 auto;
    margin-top: 40px;
+   margin-right: 380px;
    width: 600px;
 }
 
@@ -37,7 +38,6 @@ vertical-align: baseline;
     border-radius: 10px;
     border: 0px;
     padding: 8px;
-    text-alignment: center;
     text-decoration: none;
 }
 .plan {
@@ -52,14 +52,13 @@ vertical-align: baseline;
     background-color: #FFCD69;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
 
 .header_img {
   position: relative;
   margin: 60px;
-  margin-left: 250px;
-  margin-right: 40px;
+  margin-left: 290px;
+  margin-right: 60px;
   width: 200px;
   height: 200px;
   overflow: hidden;
@@ -67,12 +66,14 @@ vertical-align: baseline;
   vertical-align: middle;
 }
 
+
 h1 {
     display: inline;
     margin: 3px;
-    font-size: 50px;
+    font-size: 40px;
     font-family: 'Chelsea Market', cursive;
     text-alignment: center;
+    vertical-align: super;
 }
 
 h2, p, .plan, .learn, .get {
@@ -135,9 +136,10 @@ h2, p, .plan, .learn, .get {
 .explore {
     padding: 20px;
     text-align: center;
+    margin-top: -10%;
     margin-bottom: 0px;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 140px;
     width: 50em;
 }
 
@@ -147,6 +149,17 @@ h2, p, .plan, .learn, .get {
     margin-bottom: 40px;
     text-align: center;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 400px;
     width: 20em;
 }
+
+footer img {
+    margin-top: -4%;
+    margin-left: -14%;
+    margin-right: -14%;
+    margin-botton: 10%;
+    width: 106%;
+    height: 200px;
+  }
+  
+      
