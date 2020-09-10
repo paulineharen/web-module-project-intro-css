@@ -61,6 +61,7 @@ vertical-align: baseline;
   height: 200px;
   overflow: hidden;
   border-radius: 50%;
+  vertical-align: middle;
 }
 
 h1 {
